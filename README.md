@@ -15,7 +15,7 @@ Clone the repository to your local machine using the following command:
 
 bash
 Copy code
-git clone https://github.com/your-username/repository-name.git
+git clone https://github.com/faisalansari12/KPI-Dashboard.git
 Open Power BI Desktop or sign in to the Power BI service.
 
 Import the Financial Dataset into Power BI.
