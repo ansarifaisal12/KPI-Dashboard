@@ -1,6 +1,7 @@
 # KPI-Dashboard
 # Project Name
 Comprehensive Income Statement Power BI Dashboard
+![Screenshot 2023-07-03 224617](https://github.com/ansarifaisal12/KPI-Dashboard/assets/115267921/0e66c4fc-6e71-49c7-99b4-03a17c6ffdc7)
 
 # Description
 This project is a comprehensive income statement Power BI dashboard designed to highlight key performance indicators (KPIs) such as net income, total revenue, and operating income. It utilizes a Financial Dataset to provide insightful visualizations and analysis of financial data.
